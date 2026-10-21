@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.markjun.quickdraft",
+    "sha256_cert_fingerprints": ["D2:E7:9D:BB:B5:DF:4F:3D:2C:B1:9F:FC:97:8C:A6:CF:63:4F:81:04:E0:FC:DE:45:32:55:14:4F:64:D6:2F:44"]
+  }
+}]
